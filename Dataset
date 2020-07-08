@@ -1,2 +1,3 @@
 Here we have used Caltech-101 Dataset.
 Link:  http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+This is a big dataset contains many classes of different objects so, I have used only 5 classes for intutaion purpose.
